@@ -3,12 +3,13 @@ Welcome to my GitHub profile!
 I'm a curious student on a coding adventure, with Python as my sidekick.  
 I love learning new things, tackling fun projects, and making code that works (sometimes even on the first try!).
 
-[![WhiteWryrm14's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteWryrm14&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![WhiteWryrm14's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteWryrm14&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## 🛠️ Tech I Like
 
 - **Python**
+- **Swift**
 - Exploring other languages and tools as I grow
 
 ---
